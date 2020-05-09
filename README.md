@@ -1,5 +1,5 @@
 # SiamRPN-coreml
-siamrpn to coreml
+siamrpn to coreml, still **bugs** with the mlmodel
 
 ## How to run?
 
@@ -8,5 +8,9 @@ siamrpn to coreml
 2. run siamrpn-coreml.py
 
 ## TO DO
-[x] convert pytorch model to coreml model
-[] process by IOS
+
+- [x] convert pytorch model to coreml model
+
+
+
+- [] process by IOS
